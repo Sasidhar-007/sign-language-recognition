@@ -253,8 +253,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 ## 👥 Authors
 
 - **Sasidhar sai** - [YourGitHub](https://github.com/Sasidhar-007)
-- **Akhil** - [YourGitHub](https://github.com/yourusername)
-- **Santhi** - [YourGitHub](https://github.com/yourusername)
+- **Akhil** - [YourGitHub](https://github.com/AVAHC4)
+- **Santhi** - [YourGitHub](https://github.com/itsmesnyy)
 
 ## 🙏 Acknowledgments
 
