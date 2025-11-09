@@ -14,6 +14,10 @@ A deep learning-powered system for real-time American Sign Language (ASL) alphab
 
 ## 🎬 Demo
 
+
+https://github.com/user-attachments/assets/02aa2ca6-35d4-47f9-a4e5-c0d2bc1be5be
+
+
 ### Real-Time Recognition
 <img width="1919" height="1079" alt="Screenshot 2025-11-09 092138" src="https://github.com/user-attachments/assets/368b41a8-62ce-4084-8825-625149391d31" />
 
@@ -228,7 +232,7 @@ Due to GitHub size limits, the dataset is not included.
 4. Run `python data.py` to preprocess
 
 ### Or Download Pre-collected Dataset:
-[Download from Google Drive](https://drive.google.com/your-link-here) (Example link)
+[Download from Google Drive](https://drive.google.com/drive/folders/1zJGET1JMfcj7pUTtEHkVw3sCC8MvZZnL)
 
 ## 🤝 Contributing
 
@@ -246,14 +250,16 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Sasidhar sai** - [YourGitHub](https://github.com/Sasidhar-007)
+- **Akhil** - [YourGitHub](https://github.com/yourusername)
+- **Santhi** - [YourGitHub](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
 - MediaPipe team for hand tracking library
 - TensorFlow/Keras for deep learning framework
 - ASL community for inspiration
-- [Add your college/institution name]
+
 
 ## 📧 Contact
 
