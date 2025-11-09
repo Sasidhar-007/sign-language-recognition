@@ -2,11 +2,6 @@
 
 A deep learning-powered system for real-time American Sign Language (ASL) alphabet recognition using computer vision and LSTM networks.
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange.svg)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.8-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 ## 🌟 Features
 
 - ✅ **Real-time Recognition** - Recognizes ASL alphabet (A-Z) at 30-60 FPS
@@ -20,10 +15,11 @@ A deep learning-powered system for real-time American Sign Language (ASL) alphab
 ## 🎬 Demo
 
 ### Real-Time Recognition
-![Demo GIF](demo/recognition_demo.gif)
+<img width="1919" height="1079" alt="Screenshot 2025-11-09 092138" src="https://github.com/user-attachments/assets/368b41a8-62ce-4084-8825-625149391d31" />
 
 ### Text-to-Sign Conversion
-![Text to Sign](demo/text_to_sign_demo.gif)
+<img width="1918" height="1079" alt="Screenshot 2025-11-09 195554" src="https://github.com/user-attachments/assets/9a2dd645-ad67-4902-ac8a-80b09789a0a3" />
+
 
 ## 🏗️ System Architecture
 
@@ -136,16 +132,16 @@ Type any word to see corresponding sign language images.
 ## 📊 Model Performance
 
 ### Training Results
-- **Validation Accuracy:** 92.3%
+- **Validation Accuracy:** 99.5%
 - **Top-3 Accuracy:** 97.8%
 - **Top-5 Accuracy:** 99.1%
 - **Average ROC-AUC:** 0.984
 
 ### Confusion Matrix
-![Confusion Matrix](evaluation_results/confusion_matrix_normalized.png)
+<img width="3226" height="2971" alt="image" src="https://github.com/user-attachments/assets/b20545c6-9152-4636-9cee-e20fcbeb238d" />
 
 ### Per-Class Performance
-![Per Class Metrics](evaluation_results/per_class_metrics.png)
+<img width="4164" height="1767" alt="image" src="https://github.com/user-attachments/assets/fa807217-4867-4502-9a85-4e9df8db372f" />
 
 ## 📁 Project Structure
 
@@ -262,8 +258,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 ## 📧 Contact
 
 For questions or collaboration:
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- Email: parisesasidharsai007@gmail.com
+- LinkedIn: [Your Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sasidhar-sai-parise-066353336/?original_referer=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2F&originalSubdomain=in))
 - Project Link: [GitHub Repo](https://github.com/yourusername/sign-language-recognition)
 
 ---
