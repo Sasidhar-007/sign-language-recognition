@@ -141,6 +141,8 @@ Type any word to see corresponding sign language images.
 - **Top-5 Accuracy:** 99.1%
 - **Average ROC-AUC:** 0.984
 
+<img width="4164" height="1467" alt="image" src="https://github.com/user-attachments/assets/9888a12d-50b9-4112-8e5d-9c764148c5c6" />
+
 ### Confusion Matrix
 <img width="3226" height="2971" alt="image" src="https://github.com/user-attachments/assets/b20545c6-9152-4636-9cee-e20fcbeb238d" />
 
